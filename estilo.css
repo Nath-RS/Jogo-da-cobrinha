@@ -1,3 +1,14 @@
-#fundo{
-    background-image: url(img-fundo/fundo-snake.png);
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+
+    background-color: rgb(11, 194, 50);
+    color: cornsilk;
+    font-family:Verdana;
 }
